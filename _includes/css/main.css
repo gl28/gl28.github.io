@@ -151,6 +151,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    display: none;
 }
 
 .navbar a:focus {
@@ -371,6 +372,7 @@ footer .footer-below {
     bottom: 2%;
     width: 50px;
     height: 50px;
+    display: none;
 }
 
 .scroll-top .btn {
